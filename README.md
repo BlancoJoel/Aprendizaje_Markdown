@@ -38,4 +38,4 @@ Aqui se pone el codigo para mostrarlo y que no funcione.
 ### Como poner una imagen
 
 ![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
-![Imagen Venom Carnage](C:\Repositorios\Aprendizaje_Markdown "Titulo opcional")
+![Imagen Venom Carnage](https://github.com/BlancoJoel/Aprendizaje_Markdown/blob/main/imagen.jpg "Titulo opcional")
