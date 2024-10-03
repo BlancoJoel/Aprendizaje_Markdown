@@ -39,3 +39,10 @@ Aqui se pone el codigo para mostrarlo y que no funcione.
 
 ![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
 ![Imagen Venom Carnage](https://github.com/BlancoJoel/Aprendizaje_Markdown/blob/main/imagen.jpg "Titulo opcional")
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:--------------:|-------------:|
+|SMX2 |Curso 2425|25|
+|ASIX 1|Curso 2425|33|
+|DAW2|Curso 2425|32|
+
